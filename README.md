@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Product Manager with 11+ years in Payments, Digital Banking, and API-first FinTech. I build and scale systems across ACH, UPI, Cards, Bill Pay, and Fraud/Risk, focusing on reliability, compliance, and developer-friendly workflows.<br><br>Founder of TechVenture360, where I’ve built AI-powered career tools used by 10K+ professionals. Passionate about 0→1 products, API design, AI-driven experiences, and simplifying complex financial systems.
+Senior Product Manager building payments infrastructure and API platforms for digital banking systems. I build and scale systems across ACH, UPI, Cards, Bill Pay, and Fraud/Risk, focusing on reliability, compliance, and developer-friendly workflows.<br><br>Founder of TechVenture360, where I’ve built AI-powered career tools used by 10K+ professionals. Passionate about 0→1 products, API design, AI-driven experiences, and simplifying complex financial systems.
 
 
 ## 🌐 Socials:
