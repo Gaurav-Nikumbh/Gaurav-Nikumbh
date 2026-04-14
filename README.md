@@ -10,6 +10,7 @@ I work on the orchestration layer of digital banking systems.
 My focus is on building reliable, compliant, and scalable payment systems across ACH, Bill Pay, Cards, and APIs.
 
 I specialize in solving system-level tradeoffs:
+
 ➥ Retry vs fraud risk
 ➥ Success rate vs compliance
 ➥ Speed vs correctness
@@ -24,11 +25,12 @@ Currently exploring AI-driven decision systems in financial platforms through II
 I focus on system-level product problems, not just features.
 
 Key areas I work on:
+
 ➥ Payment orchestration systems (ACH, Bill Pay, APIs)
 ➥ Fraud decisioning & risk orchestration
 ➥ Retry frameworks and failure handling
 ➥ API platforms for banks and fintechs
-➥Processor integrations (API + file-based like NACHA, settlement, returns)
+➥ Processor integrations (API + file-based like NACHA, settlement, returns)
 
 # 💻 Tech Stack → Systems & Tools I Work With:
 I focus more on system design and decision-making than tools. These are systems I regularly work with:
