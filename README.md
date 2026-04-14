@@ -64,6 +64,7 @@ I focus more on system design and decision-making than tools. These are systems 
 I use AI not as a tool, but as a decision layer in product systems.
 
 Areas I actively apply AI:
+
 ➥ Fraud risk scoring and anomaly detection  
 ➥ Decision systems for payment retries and routing  
 ➥ AI-assisted debugging and system analysis  
