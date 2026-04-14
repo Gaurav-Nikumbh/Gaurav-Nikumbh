@@ -1,5 +1,11 @@
 # 💫 About Me:
-Senior Product Manager building payments infrastructure and API platforms for digital banking systems. I build and scale systems across ACH, UPI, Cards, Bill Pay, and Fraud/Risk, focusing on reliability, compliance, and developer-friendly workflows.<br><br>Founder of TechVenture360, where I’ve built AI-powered career tools used by 10K+ professionals. Passionate about 0→1 products, API design, AI-driven experiences, and simplifying complex financial systems.
+Senior Product Manager working on the orchestration layer of digital banking systems.
+
+I build systems that decide how, when, and whether money moves — across ACH, Bill Pay, Cards, and APIs.
+
+My work focuses on payment reliability, fraud decisioning, and system-level tradeoffs like retries vs risk, success rate vs compliance, and speed vs correctness.
+
+Currently exploring AI-driven decision systems in financial platforms through IIM Calcutta (FinTech & AI), applying this thinking to fraud detection and payment orchestration.
 
 
 ## 🌐 Socials:
