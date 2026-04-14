@@ -2,7 +2,7 @@
 
 Senior Product Manager | Payments Orchestration & Platform Systems
 
-I build systems that decide how money moves — when it should go through, when it should stop, and what happens when things break.
+I build systems that decide how money moves - when it should go through, when it should stop, and what happens when things break.
 
 # 💫 About Me:
 I work on the orchestration layer of digital banking systems.
@@ -10,6 +10,7 @@ I work on the orchestration layer of digital banking systems.
 My focus is on building reliable, compliant, and scalable payment systems across ACH, Bill Pay, Cards, and APIs.
 
 I specialize in solving system-level tradeoffs:
+
 
 ➥ Retry vs fraud risk
 ➥ Success rate vs compliance
@@ -25,6 +26,7 @@ Currently exploring AI-driven decision systems in financial platforms through II
 I focus on system-level product problems, not just features.
 
 Key areas I work on:
+
 
 ➥ Payment orchestration systems (ACH, Bill Pay, APIs)
 ➥ Fraud decisioning & risk orchestration
