@@ -13,7 +13,9 @@ I specialize in solving system-level tradeoffs:
 
 
 ➥ Retry vs fraud risk
+
 ➥ Success rate vs compliance
+
 ➥ Speed vs correctness
 
 Currently exploring AI-driven decision systems in financial platforms through IIM Calcutta (FinTech & AI), applying this thinking to fraud detection, payment reliability, and orchestration systems.
@@ -29,9 +31,13 @@ Key areas I work on:
 
 
 ➥ Payment orchestration systems (ACH, Bill Pay, APIs)
+
 ➥ Fraud decisioning & risk orchestration
+
 ➥ Retry frameworks and failure handling
+
 ➥ API platforms for banks and fintechs
+
 ➥ Processor integrations (API + file-based like NACHA, settlement, returns)
 
 # 💻 Tech Stack → Systems & Tools I Work With:
@@ -68,8 +74,11 @@ I use AI not as a tool, but as a decision layer in product systems.
 Areas I actively apply AI:
 
 ➥ Fraud risk scoring and anomaly detection  
+
 ➥ Decision systems for payment retries and routing  
+
 ➥ AI-assisted debugging and system analysis  
+
 ➥ GenAI for product workflows, API understanding, and documentation  
 
 Currently exploring how AI can improve reliability in payment orchestration — balancing success rate, fraud risk, and compliance constraints.
